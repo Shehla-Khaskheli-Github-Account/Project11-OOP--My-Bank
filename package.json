@@ -1,0 +1,22 @@
+{
+  "name": "shehla-my-bank",
+  "version": "1.0.0",
+  "description": "This is a cli based application",
+  "main": "index.js",
+  "type": "module",
+  "bin": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "shehla",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.10"
+  },
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "inquirer": "^9.3.4"
+  }
+}
